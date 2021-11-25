@@ -27,9 +27,9 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    showgrid="false"
-   inkscape:zoom="0.65632754"
-   inkscape:cx="387.76371"
-   inkscape:cy="270.44424"
+   inkscape:zoom="1.3126551"
+   inkscape:cx="497.84594"
+   inkscape:cy="224.35444"
    inkscape:window-width="1858"
    inkscape:window-height="1057"
    inkscape:window-x="54"
@@ -305,7 +305,7 @@
    cy="597.09998"
    r="73"
    id="circle116"
-   style="fill:#ffffff" />
+   style="fill:#f9f9f9" />
 				<circle
    cx="-281.29999"
    cy="597.09998"
@@ -321,7 +321,7 @@
    cy="597.09998"
    r="73"
    id="circle122"
-   style="fill:#ffffff" />
+   style="fill:#f9f9f9" />
 				<circle
    cx="-24.700001"
    cy="597.09998"
@@ -359,7 +359,7 @@
    cy="485.89999"
    r="94.300003"
    id="circle137"
-   style="fill:#ffffff" />
+   style="fill:#f9f9f9" />
 				<g
    id="g149">
 					<circle
@@ -368,7 +368,7 @@
    cy="485.89999"
    r="94.300003"
    id="circle139"
-   style="fill:#ffffff" />
+   style="fill:#f9f9f9" />
 					<path
    class="st9"
    d="m -325.6,495.2 9.5,-8.9 c 0.5,-0.5 0.5,-1.2 0,-1.7 l -9.5,-8.9 c -0.7,-0.7 -1.9,-0.2 -1.9,0.8 v 8.9 8.9 c -0.1,1 1.1,1.5 1.9,0.9 z"
@@ -522,7 +522,7 @@
 				</g>
 				<polygon
    class="st15"
-   points="96.3,541.5 84,529.1 82,531.1 94.3,543.5 82,555.8 84,557.9 96.3,545.5 108.7,557.9 110.7,555.8 98.3,543.5 110.7,531.1 108.7,529.1 "
+   points="96.3,545.5 108.7,557.9 110.7,555.8 98.3,543.5 110.7,531.1 108.7,529.1 96.3,541.5 84,529.1 82,531.1 94.3,543.5 82,555.8 84,557.9 "
    id="polygon221" />
 			</g>
 			<g
